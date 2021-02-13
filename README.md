@@ -6,7 +6,7 @@
 
     -   You can check if Node is installed with `node --version`
 
--   Clone repo into root directory `C:\\ || ~/`
+-   Clone repo into root directory `~/`
 
 -   Modify .bashrc `nano ~/.bashrc`
 
